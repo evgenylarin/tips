@@ -14,4 +14,4 @@ reset
 export SHELL=bash
 export TERM=xterm-256color
 # Type your rows and columns from stty -a 
-ssty rows 29 columns 115
+stty rows 29 columns 115
